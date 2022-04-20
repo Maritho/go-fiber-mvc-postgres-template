@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"github.com/Maritho/go-fibers-learning/app/models"
-	"github.com/Maritho/go-fibers-learning/databases"
+	"github.com/Maritho/go-fiber-mvc-postgres-template/app/models"
+	"github.com/Maritho/go-fiber-mvc-postgres-template/databases"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
 )

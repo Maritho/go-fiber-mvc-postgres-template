@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Maritho/go-fibers-learning/databases"
-	"github.com/Maritho/go-fibers-learning/router"
+	"github.com/Maritho/go-fiber-mvc-postgres-template/databases"
+	"github.com/Maritho/go-fiber-mvc-postgres-template/router"
 	"github.com/gofiber/fiber/v2"
 )
 

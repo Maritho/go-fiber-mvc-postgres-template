@@ -1,7 +1,7 @@
 package router
 
 import (
-	noteRoutes "github.com/Maritho/go-fibers-learning/app/routes"
+	noteRoutes "github.com/Maritho/go-fiber-mvc-postgres-template/app/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 )

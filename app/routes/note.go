@@ -1,7 +1,7 @@
 package routes
 
 import (
-	noteHandler "github.com/Maritho/go-fibers-learning/app/controllers"
+	noteHandler "github.com/Maritho/go-fiber-mvc-postgres-template/app/controllers"
 	"github.com/gofiber/fiber/v2"
 )
 

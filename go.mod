@@ -1,4 +1,4 @@
-module github.com/Maritho/go-fibers-learning
+module github.com/Maritho/go-fiber-mvc-postgres-template
 
 go 1.18
 

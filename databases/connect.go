@@ -5,7 +5,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/Maritho/go-fibers-learning/config"
+	"github.com/Maritho/go-fiber-mvc-postgres-template/config"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
