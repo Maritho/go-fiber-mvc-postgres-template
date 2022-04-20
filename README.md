@@ -1,11 +1,13 @@
 # Fiber Framewordk REST API (Golang MVC)
-<!-- 
+
 ## Installation
 
 ```sh
-cd dillinger
-npm i
-node app
-``` -->
+go get github.com/cespare/reflex
+mv .env.development .env
+make watch
+```
+
+Note: Make sure you have PATH exported in your .bashrc or .zshrc file as export PATH=$PATH:$HOME/go/bin/
 
 
