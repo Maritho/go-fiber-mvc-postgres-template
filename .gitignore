@@ -1,5 +1,5 @@
 # server
-# .env
+.env
 .idea/
 *.log
 .DS_Store
